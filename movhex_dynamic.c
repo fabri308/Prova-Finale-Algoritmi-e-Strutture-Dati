@@ -14,7 +14,7 @@ void toggle_air_route(int arg1, int arg2, int arg3, int arg4);
 void travel_cost(int arg1, int arg2, int arg3, int arg4);
 
 //STRUTTURE
-/*typedef struct 
+/*typedef  struct 
 {
     int xdst;
     int ydst;
